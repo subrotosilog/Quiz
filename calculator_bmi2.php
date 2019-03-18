@@ -25,7 +25,7 @@
 
 
 	<div class="contact1">
-		<!-- <div class="bg-contact100" style="background-image: url('https://images/ad.jpg');"> -->
+		
 			<div class="container-contact1">
 			<div class="contact1-pic js-tilt" data-tilt>
 				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtw33HguinFObHFeS-8fKf9w2Gni3r4ssYF3BLEkutTlwXCdb3xg" alt="IMG">
