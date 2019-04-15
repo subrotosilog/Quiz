@@ -1,0 +1,14 @@
+<?php
+$nilai = 22;
+
+if ($nilai) == 20) {
+
+	echo "Nilainya adalah 20";
+
+} else {
+
+	echo "Bukan 20"
+
+}
+?>
+

@@ -53,7 +53,7 @@
 					<span class="shadow-input1"></span>
 				</div>
  -->
-				<<!-- div class="wrap-input1 validate-input" data-validate = "Message is required">
+				<!-- div class="wrap-input1 validate-input" data-validate = "Message is required">
 					<textarea class="input1" name="message" placeholder="Apakah Berat Badan Anda Ideal"></textarea>
 					<span class="shadow-input1"></span>
 				</div>
